@@ -17,7 +17,7 @@
 + Успешное оформление заказа.
 #### Для запуска в режиме dev команда npm run serve.
 #### Сборка - команда npm run build.
-#### Для просмотра результата перейдите по ссылке https://rostislavzeberg.github.io/Shop_Moire/
+#### Для просмотра результата перейдите по ссылке https://rostislavzeberg.github.io/ShopMoire/#/
 
 
 
